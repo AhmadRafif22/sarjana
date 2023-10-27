@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;600;700&display=swap');
+
+body {
+    font-family: 'Inter' !important;
+}
+
+/* ======= INDEX PAGE ======= */
+
+.login {
+    height: 80vh !important;
+}
+
+.login-container {
+    width: 55%;
+}
+
+/* ======= INDEX PAGE END ======= */
+
+
+/* ======= RIWAYAT PAGE END ======= */
+.point {
+    background-color: #3A3937;
+}
+.point-text {
+    font-size: 4rem !important;
+}
+.poin-form-container {
+    width: 35%;
+}
+.riwayat-table {
+    border-top: 2px solid #C5C5C5 !important;
+    border-bottom: 2px solid #C5C5C5 !important;
+}
+/* ======= RIWAYAT PAGE END ======= */
+
+
