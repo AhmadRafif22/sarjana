@@ -42,7 +42,7 @@
                     </h3>
                 </div>
 
-                <a href="" class="card-body py-2">
+                <a href="" class="hadiah-card card-body py-2">
                     <div
                         class="notice d-flex bg-dark-subtle rounded border-secondary border border-dashed min-w-lg-600px flex-shrink-0 p-6">
 
@@ -57,14 +57,14 @@
                                 </div>
                             </div>
 
-                            <span class="btn btn-dark bg-opacity-75 bg-dark px-6 align-self-center text-nowrap fs-3">
+                            <span
+                                class="bg-opacity-50 bg-dark px-6 align-self-center text-nowrap fs-3 fw-bold rounded-4 py-4 text-white">
                                 20
                             </span>
                         </div>
                     </div>
                 </a>
-
-                <a href="" class="card-body py-2">
+                <a href="" class="hadiah-card card-body py-2">
                     <div
                         class="notice d-flex bg-dark-subtle rounded border-secondary border border-dashed min-w-lg-600px flex-shrink-0 p-6">
 
@@ -79,14 +79,14 @@
                                 </div>
                             </div>
 
-                            <span class="btn btn-dark bg-opacity-75 bg-dark px-6 align-self-center text-nowrap fs-3">
+                            <span
+                                class="bg-opacity-50 bg-dark px-6 align-self-center text-nowrap fs-3 fw-bold rounded-4 py-4 text-white">
                                 20
                             </span>
                         </div>
                     </div>
                 </a>
-
-                <a href="" class="card-body py-2">
+                <a href="" class="hadiah-card card-body py-2">
                     <div
                         class="notice d-flex bg-dark-subtle rounded border-secondary border border-dashed min-w-lg-600px flex-shrink-0 p-6">
 
@@ -101,7 +101,8 @@
                                 </div>
                             </div>
 
-                            <span class="btn btn-dark bg-opacity-75 bg-dark px-6 align-self-center text-nowrap fs-3">
+                            <span
+                                class="bg-opacity-50 bg-dark px-6 align-self-center text-nowrap fs-3 fw-bold rounded-4 py-4 text-white">
                                 20
                             </span>
                         </div>

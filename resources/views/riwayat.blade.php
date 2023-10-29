@@ -33,7 +33,7 @@
                 <input class="form-control py-2 mb-2" type="text" placeholder="No. nota">
                 <input class="form-control py-2 mb-2" type="text" placeholder="Total Belanja">
                 <div class="input-group mb-4">
-                    <input type="text" class="form-control py-2" placeholder="Poin masuk (otomatis)">
+                    <input type="text" class="form-control py-2" placeholder="Poin masuk (otomatis)" disabled>
                     <button class="btn btn-primary py-2 px-3" type="button" id="button-addon2">
                         <img src="{{ URL::asset('assets/img/right-arrow.svg') }}" alt="" class="img-fluid">
                     </button>

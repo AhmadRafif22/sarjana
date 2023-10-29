@@ -34,3 +34,10 @@ body {
 /* ======= RIWAYAT PAGE END ======= */
 
 
+/* ======= HADIAH PAGE ======= */
+.hadiah-card:hover .notice {
+    background-color: #91919b !important;
+}
+/* ======= HADIAH PAGE END ======= */
+
+
