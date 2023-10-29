@@ -14,10 +14,23 @@ body {
     width: 55%;
 }
 
+/* rasponsive hp */
+@media screen and (max-width: 500px) {
+    .sarjana-logo {
+        width: 150px !important;
+    }
+    .login-container {
+        width: 80%;
+    }
+    .login {
+        height: 70vh !important;
+    }
+}
+
 /* ======= INDEX PAGE END ======= */
 
 
-/* ======= RIWAYAT PAGE END ======= */
+/* ======= RIWAYAT PAGE ======= */
 .point {
     background-color: #3A3937;
 }
@@ -31,12 +44,48 @@ body {
     border-top: 2px solid #C5C5C5 !important;
     border-bottom: 2px solid #C5C5C5 !important;
 }
+
+/* rasponsive hp */
+@media screen and (max-width: 500px) {
+    .riwayat-table-container {
+        display: none !important;
+    }
+    .riwayat-container {
+        flex-direction: column !important;
+        padding: 20px !important;
+    }
+    .sarjana-icon-riwayat {
+        display: none !important;
+    }
+    .poin-form-container {
+        width: 100%;
+        margin-top: 8vmax !important;
+    }
+}
 /* ======= RIWAYAT PAGE END ======= */
 
 
 /* ======= HADIAH PAGE ======= */
 .hadiah-card:hover .notice {
     background-color: #91919b !important;
+}
+
+@media screen and (max-width: 500px) { 
+    .hadiah-container {
+        padding: 20px !important;
+    }
+    .sarjana-logo-hadiah {
+        display: none !important;
+    }
+    .card-header, .hadiah-card {
+        padding: 0 !important;
+    }
+    .notice.p-6 {
+        padding: 1rem !important;
+    }
+    .hadiah-title {
+        font-size: 1.25rem !important;
+    }
 }
 /* ======= HADIAH PAGE END ======= */
 

@@ -4,7 +4,7 @@
 @section('content')
     <div class="container py-10">
 
-        <div class="d-flex justify-content-between mb-5">
+        <div class="riwayat-container d-flex justify-content-between mb-5">
 
             <div>
                 <h1 class="mb-2">Halo !</h1>
@@ -28,8 +28,8 @@
             </div>
 
             <div class="poin-form-container d-flex flex-column">
-                <img src="{{ URL::asset('assets/img/sarjana-logo.png') }}" alt="" class="img-fluid mb-5 ms-auto"
-                    width="220">
+                <img src="{{ URL::asset('assets/img/sarjana-logo.png') }}" alt=""
+                    class="img-fluid mb-5 ms-auto sarjana-icon-riwayat" width="220">
                 <input class="form-control py-2 mb-2" type="text" placeholder="No. nota">
                 <input class="form-control py-2 mb-2" type="text" placeholder="Total Belanja">
                 <div class="input-group mb-4">
@@ -46,7 +46,7 @@
 
         </div>
 
-        <div>
+        <div class="riwayat-table-container">
             <!--begin::Table widget 9-->
             <div class="card card-flush h-xl-100">
                 <!--begin::Header-->
