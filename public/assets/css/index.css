@@ -44,15 +44,23 @@ body {
     border-top: 2px solid #C5C5C5 !important;
     border-bottom: 2px solid #C5C5C5 !important;
 }
+.riwayat-table-container {
+    width: 100% !important;
+}
 
 /* rasponsive hp */
 @media screen and (max-width: 500px) {
-    .riwayat-table-container {
-        display: none !important;
-    }
+
     .riwayat-container {
         flex-direction: column !important;
         padding: 20px !important;
+    }
+    .riwayat-table-container {
+        padding: 20px !important;
+    }
+    .riwayat-title {
+        margin: 0 !important;
+        margin-left: 15px !important;
     }
     .sarjana-icon-riwayat {
         display: none !important;

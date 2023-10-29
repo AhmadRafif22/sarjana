@@ -52,7 +52,7 @@
                 <!--begin::Header-->
                 <div class="card-header pt-5">
                     <!--begin::Title-->
-                    <h3 class="card-title align-items-start flex-column">
+                    <h3 class="card-title align-items-start flex-column riwayat-title">
                         <span class="card-label fw-bold text-gray-800">
                             Riwayat Anda
                         </span>
@@ -62,7 +62,7 @@
                 <!--end::Header-->
 
                 <!--begin::Body-->
-                <div class="card-body py-3">
+                <div class="card-body py-3 px-0">
                     <!--begin::Table container-->
                     <div class="table-responsive  rounded-3">
                         <table class="table table-hover table-rounded table-striped border gy-5 gs-7">
